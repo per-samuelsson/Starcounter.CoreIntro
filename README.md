@@ -12,3 +12,6 @@ The sample in this project shows how our core API's run on the new .NET Core pla
 
 This will launch Starcounter 2.3 bluestar automatically (if not already running) and create database "starcore" if it doesn't exist.
 
+## Guidelines and principles
+[These](https://github.com/per-samuelsson/Starcounter.CoreIntro/wiki/Guidelines).
+
